@@ -1,8 +1,5 @@
-## 🛠️ Usage
+
 ### Activating using MAS:
-
-
-# Method 1 - PowerShell (Recommended):**
 
 ## ⚠️ Important:
 **Make sure Windows or MS Office is already installed** on your PC before trying to activate it.  
@@ -36,7 +33,7 @@ irm https://get.activated.win | iex
 Once the MAS menu appears:
 
 - Press **1** → Activate **Windows** (Permanent – HWID method)
-- Press **2** → Activate **MS Office** (via Ohook)
+- Press **2** → Activate **MS Office** (Permanent - via Ohook)
 
 ---
 
